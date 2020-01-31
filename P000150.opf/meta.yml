@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །ཆོས་དབྱིངས་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས། །
+  authors:
+  - མཛད་པ་པོ། གློང་ཆེན་རབ་འབྱམས།
+  sku: TSD-002
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Treasury of the Basic Space of Phenomena
+    bo: ཆོས་དབྱིངས་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས།
+  collection:
+    en: Tsadra Publishing–  Book 2
+    bo: ཙཱ་འདྲ་དཔེ་སྐྲུན།–  དེབ། ༢
+  author:
+    en: Kunkhyen Longchen Rabjam
+    bo: ཀུན་མཁྱེན་ཀློང་ཆེན་རབ་འབྱམས།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-002
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-002.epub
+  description:
+    en: ''
+    bo: ''
