@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000150
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་དབྱིངས་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས། །
   authors:
   - མཛད་པ་པོ། གློང་ཆེན་རབ་འབྱམས།
-  sku: TSD-002
   layers:
   - book_title
   - author
   - chapter_title
+  id: TSD-002
 web_metadata:
   title:
     en: The Treasury of the Basic Space of Phenomena
